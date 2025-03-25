@@ -1,5 +1,4 @@
 import pygame, random, time
-
 # Импортируем необходимые библиотеки: pygame для игры, random для генерации случайных чисел и time для пауз.
 
 pygame.init()
